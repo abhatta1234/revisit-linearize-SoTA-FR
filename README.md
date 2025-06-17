@@ -43,7 +43,7 @@ python3 eval_ijbc.py \
 ```
 
 ### Parameter Options:
-- `--model-prefit`: `path for the trained model`
+- `--model-prefix`: `path for the trained model`
 - `--network`: Choose from `{r100, r18, r50}`
 - `--target`: Choose from `{IJBB, IJBC}`
 - `--job`: Specify your run name
