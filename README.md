@@ -1,8 +1,9 @@
-# Revisit Linearize State-of-the-Art Face Recognition
+# Revisiting Linearization of Spatial Maps in SoTA Face Recognition Backbone
 
-This repository is the implementation for `Revisiting Linearization of Spatial Maps in SoTA Face Recognition Backbone`, appeared in IJCB 2024.
-Paper can be found: [IJCB Proceedings.](https://ieeexplore-ieee-org.proxy.library.nd.edu/abstract/document/10744486/?casa_token=kY9U4LXR0X4AAAAA:Oq1Ji5bw9S80t-FtYtsmjzTySEiq6XJEP8gJPjpUbxlB80fIzl7aBfbU7dSfDpUmNnaxzxp1ag)
-This repository contains implementations for face recognition models, with most of the code derived from the [InsightFace ArcFace implementation](https://github.com/deepinsight/insightface/tree/master/recognition/arcface_torch).
+This repository contains the implementation for the paper **"Revisiting Linearization of Spatial Maps in State-of-the-Art Face Recognition Backbone"**, which appeared in **IJCB 2024**. You can access the paper in the [IJCB Proceedings](https://ieeexplore-ieee-org.proxy.library.nd.edu/abstract/document/10744486/?casa_token=kY9U4LXR0X4AAAAA:Oq1Ji5bw9S80t-FtYtsmjzTySEiq6XJEP8gJPjpUbxlB80fIzl7aBfbU7dSfDpUmNnaxzxp1ag).
+
+This repository includes implementations for face recognition models, with most of the code derived from the [InsightFace ArcFace implementation](https://github.com/deepinsight/insightface/tree/master/recognition/arcface_torch).
+
 
 ## Training Script
 
